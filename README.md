@@ -15,5 +15,6 @@ Associated files-->
 * ZF_Equalize.m -> Contains implementation for ZF equalization
 * MMSE_Equalize.m -> Contains implementation for MMSE equalization
 
-N.B.: If you take help from this project, please cite the following paper:
-* U. K. Dey, R. Akl, and R. Chataut, “High Throughput Vehicular Communication Using Spatial Multiplexing MIMO,” in 2020 10th Annual Computing and Communication Workshop and Conference (CCWC), pp. 0110-0115, 2020.
+N.B.: If you take help from this project, please cite the following papers:
+* U. K. Dey, R. Akl, and R. Chataut, “High Throughput Vehicular Communication Using Spatial Multiplexing MIMO,” in *2020 10th Annual Computing and Communication Workshop and Conference (CCWC), pp. 0110-0115,* 2020.
+* U. K. Dey, R. Akl, and R. Chataut, “Selective MIMO in Vehicular Communication for Reliable Safety Services and High Speed Non-Safety Services,” in *2021 11th IEEE Annual Ubiquitous Computing, Electronics & Mobile Communication Conference (UEMCON),* 2021.
